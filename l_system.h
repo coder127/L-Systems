@@ -1,9 +1,3 @@
-////////////////////////////////////////////////////////////////////////////////
-//
-// (C) Andy Thomason 2012-2014
-//
-// Modular Framework for OpenGLES2 rendering on multiple platforms.
-//
 
 #include <iostream>
 #include <fstream>
@@ -15,7 +9,7 @@ using namespace std;
 
 namespace octet {
 
-    /// Scene containing a box with octet.
+    /// Scene 
     class l_system : public app {
 
         // scene for drawing box
